@@ -3,7 +3,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AzureDevOpsXamarin" expanded="True" selected="True" />
+          <Node name="AzureDevOpsXamarin" expanded="True">
+            <Node name="AzureDevOpsXamarin.Android" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
