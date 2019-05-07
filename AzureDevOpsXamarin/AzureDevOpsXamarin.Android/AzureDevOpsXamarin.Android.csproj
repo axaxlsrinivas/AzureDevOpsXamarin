@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
@@ -93,7 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AzureDevOpsXamarin\AzureDevOpsXamarin.csproj">
-      <Project>{048D2EAE-9CDD-4D9C-A079-B977FC9998BD}</Project>
+      <Project>{E944167C-091A-4A58-B2B9-0266F89A902F}</Project>
       <Name>AzureDevOpsXamarin</Name>
     </ProjectReference>
   </ItemGroup>
